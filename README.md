@@ -1,6 +1,6 @@
 **Jef's SPLAT! Coverage Utilities**
 
-These utilities, written in Python 3, are intended to work with coverage model maps created using SPLAT! with the -kml option. They provide advanced composite mapping features using multiple SPLAT! maps. Each of these utilities was based on the original composite.py, and then variations were implemented. 
+These utilities, written in Python 3, are intended to work with coverage model maps created using SPLAT! with the -kml option. They provide advanced composite mapping features using multiple SPLAT! maps. Each of these utilities was based on my original composite.py, and then variations were implemented. 
 
 ## Availability of Code
 Code is available [here](https://github.com/jefallbright/coverage_utils/tree/main) on Github, shared under the MIT License. You are free to download, use, modify, and share this code as you wish.
